@@ -24,7 +24,7 @@
    - Choose a Unity version (e.g., Unity 2022.3 LTS is recommended).
    - Select the **Microsoft Visual Studio** and platform support checkboxes during install if using Visual Studio.
 5. Wait for the installation to complete.
-
+   - Make sure Wi-Fi is stable and that your computer rig is adequate enough to handle the Unity Game Engine
 ---
 
 ### 2. Open the Project
